@@ -1,0 +1,23 @@
+{
+
+		"sample":[
+		  {
+			"app_name": "Collage Maker",
+			"app_url": "https://play.google.com/store/apps/details?id=com.appbasic.collagemaker",
+			"app_icon": "https://lh3.googleusercontent.com/iK9BjecVLmn_xKqHmts4bCIVdwU1vbMU9_I4--u_GmZwsD-9WWI_OruIh-vjoE1PQ5M=s180"
+		},{
+			"app_name": "Echo Magic Mirror Effect",
+			"app_url": "https://play.google.com/store/apps/details?id=com.appbasic.echomagicmirroreffect",
+			"app_icon": "https://lh3.googleusercontent.com/6RtouJGCqiXcPXLYgA4PepPQvB6a-1eeyMFt9MtPiwEd3A9gOMrurjqxx6aASI-tnI5n=s180"
+		},{
+			"app_name": "Women Traditional Dresses",
+			"app_url": "https://play.google.com/store/apps/details?id=com.appbasic.womentraditionaldress",
+			"app_icon": "https://lh3.googleusercontent.com/kDsRq2zJQFaXeE9yRXN5s1fzXVI4QogkTWPYrCEGi1NnNmg-mcGCQTnKeMaxBwHmO9k=s180"
+		},{
+			"app_name": "Photo Blend Nature",
+			"app_url": "https://play.google.com/store/apps/details?id=com.appbasic.photoblendnature",
+			"app_icon": "https://lh3.googleusercontent.com/WLk-hTHKDpF39SNKxRPiv4ZznxfrtqBNdnECyZuzJFf22NyHZN46JNJsGe_1r4XFy-I=s180"
+		}
+		
+		]
+}
