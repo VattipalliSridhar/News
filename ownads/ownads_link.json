@@ -3,6 +3,10 @@
 		"sample":[
 		
 			{
+        "app_name": "Christmas Photo Frame Editor",
+		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframeeditor",
+		"app_icon": "https://lh3.googleusercontent.com/Z1wDvhNdyf8JNIemEKVtS6OAnetCQbouQUkhUUs8UGbcSA0KsAhswaeFbU_FgT9tJQ=s180"
+    },{
         "app_name": "Echo Magic Mirror Effect",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.echomagicmirroreffect",
 		"app_icon": "https://lh3.googleusercontent.com/G3rCUwiA-e9ykDdhw7IE0XKAIwLnWiWIH2e6JkUHDB9QbZNZvVGpf1eJhbGwMWUbfKi3=s180-rw"
