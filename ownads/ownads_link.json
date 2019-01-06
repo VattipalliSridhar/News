@@ -7,6 +7,10 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.pongalphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/fFXC5vK5uOP0ijr9RQLZc31NNUGzgpOAIuveMjQVhX-m7ij_Q_dxQpgvHAFi4C3O2qxY=s180-rw"
     },{
+        "app_name": "DP And Status",
+		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.statusanddp",
+		"app_icon": "https://lh3.googleusercontent.com/5QVUjv3zHdKXXR9Ou5EJNGsBBeG6daGiYekqqk4fHxJe_dTEV580Esd0H-GAfJkx5g=s180-rw"
+    },{
         "app_name": "Republic Day Photo Frames 2019",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.republicdayphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/ZAUKsffQgB2UINdq485IQCkjgTd6FJpKvnoyOnieV33Dm_cx0oFCFKp3qGx8kflhEjo=s180-rw"
@@ -70,10 +74,6 @@
         "app_name": "Janasena DP Maker",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.janasenadpmaker",
 		"app_icon": "https://lh3.googleusercontent.com/P15Y05XOqD4lggtmuRlaCCEkd0TBHSY_6uwDSlI5B8i5oVH8fzdgqklDu-1sJF4rR1w=s180"
-    },{
-        "app_name": "DP And Status",
-		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.statusanddp",
-		"app_icon": "https://lh3.googleusercontent.com/5QVUjv3zHdKXXR9Ou5EJNGsBBeG6daGiYekqqk4fHxJe_dTEV580Esd0H-GAfJkx5g=s180-rw"
     }
 		
 		]
