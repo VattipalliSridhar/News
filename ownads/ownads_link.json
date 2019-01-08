@@ -7,9 +7,9 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.pongalphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/fFXC5vK5uOP0ijr9RQLZc31NNUGzgpOAIuveMjQVhX-m7ij_Q_dxQpgvHAFi4C3O2qxY=s180-rw"
     },{
-        "app_name": "DP And Status",
-		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.statusanddp",
-		"app_icon": "https://lh3.googleusercontent.com/5QVUjv3zHdKXXR9Ou5EJNGsBBeG6daGiYekqqk4fHxJe_dTEV580Esd0H-GAfJkx5g=s180-rw"
+        "app_name": "Uninstaller",
+		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.uninstaller",
+		"app_icon": "https://lh3.googleusercontent.com/BpRsT6upbjp6yTCdL6O9QlUJzwJZ4p31cVFKlqWxinOuHe8JGeLvTbCebkyLg7hWx392=s180"
     },{
         "app_name": "Republic Day Photo Frames 2019",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.republicdayphotoframes",
@@ -18,10 +18,6 @@
         "app_name": "New Year Photo Frames 2019",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.newyearphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/UyERtw7TbAUU2nUJPTOkoOJGV-eD1SY8Un_FWADutPdDpQg1ZHZ2DxHJ350n1os1yb0N=s180"
-    },{
-        "app_name": "Uninstaller",
-		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.uninstaller",
-		"app_icon": "https://lh3.googleusercontent.com/BpRsT6upbjp6yTCdL6O9QlUJzwJZ4p31cVFKlqWxinOuHe8JGeLvTbCebkyLg7hWx392=s180"
     },{
         "app_name": "Ayyappa Swamy Live Wallpaper",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ayyappaswamylivewallpaper",
@@ -34,6 +30,10 @@
         "app_name": "Voice Recorder",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.voicerecorder",
 		"app_icon": "https://lh3.googleusercontent.com/eNKKZrf2Jy8Ase3gqmOP-o23jpj-Qzug5JQONzKrHHZjlB1gYjX0VWUAHhF2-nq30g=s180"
+    },{
+        "app_name": "DP And Status",
+		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.statusanddp",
+		"app_icon": "https://lh3.googleusercontent.com/5QVUjv3zHdKXXR9Ou5EJNGsBBeG6daGiYekqqk4fHxJe_dTEV580Esd0H-GAfJkx5g=s180-rw"
     },{
         "app_name": "Flash On Call",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashoncall",
