@@ -19,6 +19,10 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.uninstaller",
 		"app_icon": "https://lh3.googleusercontent.com/BpRsT6upbjp6yTCdL6O9QlUJzwJZ4p31cVFKlqWxinOuHe8JGeLvTbCebkyLg7hWx392=s180"
     },{
+        "app_name": "Janasena DP Maker",
+		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.janasenadpmaker",
+		"app_icon": "https://lh3.googleusercontent.com/P15Y05XOqD4lggtmuRlaCCEkd0TBHSY_6uwDSlI5B8i5oVH8fzdgqklDu-1sJF4rR1w=s180"
+    },{
         "app_name": "New Year Photo Frames 2019",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.newyearphotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/UyERtw7TbAUU2nUJPTOkoOJGV-eD1SY8Un_FWADutPdDpQg1ZHZ2DxHJ350n1os1yb0N=s180"
@@ -74,10 +78,6 @@
         "app_name": "Christmas Photo Frame Editor",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframeeditor",
 		"app_icon": "https://lh3.googleusercontent.com/Z1wDvhNdyf8JNIemEKVtS6OAnetCQbouQUkhUUs8UGbcSA0KsAhswaeFbU_FgT9tJQ=s180"
-    },{
-        "app_name": "Janasena DP Maker",
-		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.janasenadpmaker",
-		"app_icon": "https://lh3.googleusercontent.com/P15Y05XOqD4lggtmuRlaCCEkd0TBHSY_6uwDSlI5B8i5oVH8fzdgqklDu-1sJF4rR1w=s180"
     }
 		
 		]
