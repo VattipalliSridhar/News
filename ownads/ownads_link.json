@@ -2,10 +2,6 @@
 
 		"sample":[
 			{
-        "app_name": "Ugadi Photo Frames 2019",
-		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ugadiphotoframes",
-		"app_icon": "https://lh3.googleusercontent.com/SHuGOq-sclORDBKFfPDFSdkYScsX3CCMuCUfFo6gA1UO6JMOSK7mbDny2CJKSqJt-QA=s180"
-    },{
         "app_name": "IPL WAStickerApp 2019",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.cricketstickerapp",
 		"app_icon": "https://lh3.googleusercontent.com/6RVsFFQFMgVFrgnJebj2qKRiLuzcPjq4U98VHWosRqGPhmglD5Q4PYvkQlJF_H-UzA=s180-rw"
@@ -13,6 +9,10 @@
         "app_name": "C Programming - Learn Code",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.cprogramming",
 		"app_icon": "https://lh3.googleusercontent.com/xGYL2pP5LqA-qjXmCacUEWrcprROs10-4BOZmrBFcwJeemjYr5UIPrDUSpYx0mGHRmXt=s180-rw"
+    },{
+        "app_name": "Ugadi Photo Frames 2019",
+		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ugadiphotoframes",
+		"app_icon": "https://lh3.googleusercontent.com/SHuGOq-sclORDBKFfPDFSdkYScsX3CCMuCUfFo6gA1UO6JMOSK7mbDny2CJKSqJt-QA=s180"
     },{
         "app_name": "Janasena DP Maker",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.janasenadpmaker",
