@@ -6,6 +6,14 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.cricketstickerapp",
 		"app_icon": "https://lh3.googleusercontent.com/6RVsFFQFMgVFrgnJebj2qKRiLuzcPjq4U98VHWosRqGPhmglD5Q4PYvkQlJF_H-UzA=s180-rw"
     },{
+        "app_name": "Village Interest Calculator",
+		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.allcalculators",
+		"app_icon": "https://lh3.googleusercontent.com/U6mE-mx41VO0Tr5OochXvmxHsd_XPvLttqbGGKlvqABfEgt3kOj1Rt58MwEz9RGTGg=s180"
+    },{
+        "app_name": "Flash Light",
+		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashlight",
+		"app_icon": "https://lh3.googleusercontent.com/Dd5YL4o1SeChFTirkaFk889Y26D-us1TtKrrRag8w1O2L3reu-_PKH3j7jaqpZLq9U4U=s180-rw"
+    },{
         "app_name": "C Programming - Learn Code",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.cprogramming",
 		"app_icon": "https://lh3.googleusercontent.com/xGYL2pP5LqA-qjXmCacUEWrcprROs10-4BOZmrBFcwJeemjYr5UIPrDUSpYx0mGHRmXt=s180-rw"
@@ -14,21 +22,13 @@
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.uninstaller",
 		"app_icon": "https://lh3.googleusercontent.com/BpRsT6upbjp6yTCdL6O9QlUJzwJZ4p31cVFKlqWxinOuHe8JGeLvTbCebkyLg7hWx392=s180"
     },{
-        "app_name": "Janasena DP Maker",
-		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.janasenadpmaker",
-		"app_icon": "https://lh3.googleusercontent.com/P15Y05XOqD4lggtmuRlaCCEkd0TBHSY_6uwDSlI5B8i5oVH8fzdgqklDu-1sJF4rR1w=s180"
-    },{
         "app_name": "Lord Ganesh Live Wallpaper",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.lordganeshlivewallpaper",
 		"app_icon": "https://lh3.googleusercontent.com/jjH6b7JSb5_mMsguGBz_flvQISqG1sUiK1R--ppOnEC8UFzR7-ppPSfSUOKoFU261IY=s180-rw"
     },{
-        "app_name": "Flash Light",
-		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashlight",
-		"app_icon": "https://lh3.googleusercontent.com/Dd5YL4o1SeChFTirkaFk889Y26D-us1TtKrrRag8w1O2L3reu-_PKH3j7jaqpZLq9U4U=s180-rw"
-    },{
-        "app_name": "Village Interest Calculator",
-		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.allcalculators",
-		"app_icon": "https://lh3.googleusercontent.com/U6mE-mx41VO0Tr5OochXvmxHsd_XPvLttqbGGKlvqABfEgt3kOj1Rt58MwEz9RGTGg=s180"
+        "app_name": "Janasena DP Maker",
+		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.janasenadpmaker",
+		"app_icon": "https://lh3.googleusercontent.com/P15Y05XOqD4lggtmuRlaCCEkd0TBHSY_6uwDSlI5B8i5oVH8fzdgqklDu-1sJF4rR1w=s180"
     },{
         "app_name": "Ugadi Photo Frames 2019",
 		"app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ugadiphotoframes",
