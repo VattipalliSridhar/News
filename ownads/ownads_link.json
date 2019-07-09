@@ -2,10 +2,6 @@
   "sample": [
     
     {
-      "app_name": "Sunrise Photo Frames",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.sunrisephotoframes",
-      "app_icon": "https://lh3.googleusercontent.com/tq4XezjOI8c1C9n8N8ci29HzKKlTPlF2skULEdrXoVtH2Is_9pZcLIE305XzddWNpuY=s180"
-    },{
       "app_name": "Nature Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.naturephotoframes",
       "app_icon": "https://lh3.googleusercontent.com/ZsGjBTbaMxeGxsTzYOPfFC1AVG9AGutE3tzCvpRWD2G8om-O64aCExRMWHU93SC0ZPk=s180"
@@ -14,6 +10,10 @@
       "app_name": "Waterfall Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.waterfallphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/l7o46lxgXAFTuxyFYlCT3_DhFyWKij5qRDFeMbN5wJzOLxPJYxPZakwKW4GU2BvNa3M=s180-rw"
+    },{
+      "app_name": "Sunrise Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.sunrisephotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/tq4XezjOI8c1C9n8N8ci29HzKKlTPlF2skULEdrXoVtH2Is_9pZcLIE305XzddWNpuY=s180"
     },
     {
       "app_name": "Uninstaller",
@@ -46,9 +46,9 @@
       "app_icon": "https://lh3.googleusercontent.com/C55pyECCC0Ac6l2Oa-keS77VkP_VJfH_wpV9J52i9x4fPw42x4vKIWn42QDjJkDOU4Fz=s180"
     },
     {
-      "app_name": "Sunrise Photo Frames",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.sunrisephotoframes",
-      "app_icon": "https://lh3.googleusercontent.com/tq4XezjOI8c1C9n8N8ci29HzKKlTPlF2skULEdrXoVtH2Is_9pZcLIE305XzddWNpuY=s180"
+      "app_name": "Birds Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.birdsphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/PcZcT-CgebMzd_Jb8WCT2-lZz8UpH0P9964N8qM2-dCyD8eLwypeOnlydNpVBOzebnls=w720-h310"
     },
     {
       "app_name": "Empty Folder Cleaner",
