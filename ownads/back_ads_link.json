@@ -1,0 +1,49 @@
+{
+  "sample": [
+    
+    {
+      "app_name": "Nature Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.naturephotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/ZsGjBTbaMxeGxsTzYOPfFC1AVG9AGutE3tzCvpRWD2G8om-O64aCExRMWHU93SC0ZPk=s180"
+    },
+    {
+      "app_name": "Waterfall Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.waterfallphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/l7o46lxgXAFTuxyFYlCT3_DhFyWKij5qRDFeMbN5wJzOLxPJYxPZakwKW4GU2BvNa3M=s180-rw"
+    },{
+      "app_name": "Sunrise Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.sunrisephotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/tq4XezjOI8c1C9n8N8ci29HzKKlTPlF2skULEdrXoVtH2Is_9pZcLIE305XzddWNpuY=s180"
+    },
+    {
+      "app_name": "Uninstaller",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.uninstaller",
+      "app_icon": "https://lh3.googleusercontent.com/BpRsT6upbjp6yTCdL6O9QlUJzwJZ4p31cVFKlqWxinOuHe8JGeLvTbCebkyLg7hWx392=s180"
+    },
+    {
+      "app_name": "Status Downloader",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.statusdownloader",
+      "app_icon": "https://lh3.googleusercontent.com/Ed64yTtkH9invRj6vuRG6lAixdcknvkBPWr0LPSrHrveyMZ45xgpGfnfVy-2Lac4Uh8=s180"
+    },
+    {
+      "app_name": "Flash On Call",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashoncall",
+      "app_icon": "https://lh3.googleusercontent.com/OSFhSrJiqN8EXESD3WAKRyDLmHX_eEs8YRp4qggrbvLfwR7nt76ftcLc2YxtMC0vfqA=s180-rw"
+    },
+    {
+      "app_name": "Flash Light",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashlight",
+      "app_icon": "https://lh3.googleusercontent.com/Dd5YL4o1SeChFTirkaFk889Y26D-us1TtKrrRag8w1O2L3reu-_PKH3j7jaqpZLq9U4U=s180-rw"
+    },
+    {
+      "app_name": "Echo Magic Mirror Effect",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.echomagicmirroreffect",
+      "app_icon": "https://lh3.googleusercontent.com/G3rCUwiA-e9ykDdhw7IE0XKAIwLnWiWIH2e6JkUHDB9QbZNZvVGpf1eJhbGwMWUbfKi3=s180-rw"
+    },
+    {
+      "app_name": "Birds Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.birdsphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/PcZcT-CgebMzd_Jb8WCT2-lZz8UpH0P9964N8qM2-dCyD8eLwypeOnlydNpVBOzebnls=w720-h310"
+    }
+  ]
+}
