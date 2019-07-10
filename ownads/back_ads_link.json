@@ -1,6 +1,5 @@
 {
   "sample": [
-    
     {
       "app_name": "Nature Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.naturephotoframes",
@@ -10,7 +9,8 @@
       "app_name": "Waterfall Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.waterfallphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/l7o46lxgXAFTuxyFYlCT3_DhFyWKij5qRDFeMbN5wJzOLxPJYxPZakwKW4GU2BvNa3M=s180-rw"
-    },{
+    },
+    {
       "app_name": "Sunrise Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.sunrisephotoframes",
       "app_icon": "https://lh3.googleusercontent.com/tq4XezjOI8c1C9n8N8ci29HzKKlTPlF2skULEdrXoVtH2Is_9pZcLIE305XzddWNpuY=s180"
@@ -44,6 +44,21 @@
       "app_name": "Birds Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.birdsphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/PcZcT-CgebMzd_Jb8WCT2-lZz8UpH0P9964N8qM2-dCyD8eLwypeOnlydNpVBOzebnls=w720-h310"
+    },
+    {
+      "app_name": "Empty Folder Cleaner",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.emptyfoldercleaner",
+      "app_icon": "https://lh3.googleusercontent.com/IB2FoVfeo7nNrDsaLlx50VJt6oQO6tvk-TSeJOVSICNGoXVDTrWKM8pTzH4WKZ85ErA=s180-rw"
+    },
+    {
+      "app_name": "Buddha Photo Frames & Wallpapers",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.buddhaphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/xi6Z91JKbOmq4W9QnVAPBrvqbaBGSQssMzEevB3K0w-e7ok7yJhgXTXwY35TwXwieoRD=s180-rw"
+    },
+    {
+      "app_name": "Lord Shiva Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.mahashivaratriphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/HDK8Kc4OMSD5iqzdAd9urhhIcZZlSXZcmPUhTjhs21dBIAKJJ8P0SdHac8sDBMYwe-3M=s180-rw"
     }
   ]
 }
