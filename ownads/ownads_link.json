@@ -8,24 +8,19 @@
       "app_icon": "https://lh3.googleusercontent.com/OSFhSrJiqN8EXESD3WAKRyDLmHX_eEs8YRp4qggrbvLfwR7nt76ftcLc2YxtMC0vfqA=s180-rw"
     },
     {
-      "app_name": "Lord Ganesh Photo Frames",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.lordganesh",
-      "app_icon": "https://lh3.googleusercontent.com/ABE9jB99oHd2i8PBO00Jz9DRE7-A1JJTbqWqXS29-jgC6C9A3XzzAnNzb9f-3PKfYOw=s180-rw"
-    },
-    {
       "app_name": "Status Downloader",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.statusdownloader",
       "app_icon": "https://lh3.googleusercontent.com/Ed64yTtkH9invRj6vuRG6lAixdcknvkBPWr0LPSrHrveyMZ45xgpGfnfVy-2Lac4Uh8=s180"
     },
     {
-      "app_name": "Independence Day Photo Frames 2019",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.independenceday",
-      "app_icon": "https://lh3.googleusercontent.com/IkJ_Axv_zkb-aVBL6zvXob2vs2L_LXZd7pDbDs69e8I69Ofzd1kx_kw8tIszR5hoxw=s180"
+      "app_name": "Lord Ganesh Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.lordganesh",
+      "app_icon": "https://lh3.googleusercontent.com/ABE9jB99oHd2i8PBO00Jz9DRE7-A1JJTbqWqXS29-jgC6C9A3XzzAnNzb9f-3PKfYOw=s180-rw"
     },
     {
-      "app_name": "Raksha Bandhan Photo Frames",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.rakshabandhan",
-      "app_icon": "https://lh3.googleusercontent.com/NsbGl4ixU8TtYH0eF1LfXBmp_iIMnStkUvujAHZEcN9pg612pEeImvwbUW7OSkso3x4=s180-rw"
+      "app_name": "Wild Animal Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.wildanimalphoto",
+      "app_icon": "https://lh3.googleusercontent.com/tHPybaOY3SzEhLXtNAM5PWbb7hm_0mhPQptfSqPIDw1X7OTDXh-HAyXWSvivK38xIzmI=s180-rw"
     },{
       "app_name": "Nature Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.naturephotoframes",
@@ -35,6 +30,16 @@
       "app_name": "Waterfall Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.waterfallphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/l7o46lxgXAFTuxyFYlCT3_DhFyWKij5qRDFeMbN5wJzOLxPJYxPZakwKW4GU2BvNa3M=s180-rw"
+    },
+    {
+      "app_name": "Uninstaller",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.uninstaller",
+      "app_icon": "https://lh3.googleusercontent.com/BpRsT6upbjp6yTCdL6O9QlUJzwJZ4p31cVFKlqWxinOuHe8JGeLvTbCebkyLg7hWx392=s180"
+    },
+    {
+      "app_name": "Flash Light",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashlight",
+      "app_icon": "https://lh3.googleusercontent.com/Dd5YL4o1SeChFTirkaFk889Y26D-us1TtKrrRag8w1O2L3reu-_PKH3j7jaqpZLq9U4U=s180-rw"
     },{
       "app_name": "Sunrise Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.sunrisephotoframes",
@@ -46,19 +51,19 @@
       "app_icon": "https://lh3.googleusercontent.com/IB2FoVfeo7nNrDsaLlx50VJt6oQO6tvk-TSeJOVSICNGoXVDTrWKM8pTzH4WKZ85ErA=s180-rw"
     },
     {
-      "app_name": "Uninstaller",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.uninstaller",
-      "app_icon": "https://lh3.googleusercontent.com/BpRsT6upbjp6yTCdL6O9QlUJzwJZ4p31cVFKlqWxinOuHe8JGeLvTbCebkyLg7hWx392=s180"
-    },
-    {
-      "app_name": "Flash Light",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashlight",
-      "app_icon": "https://lh3.googleusercontent.com/Dd5YL4o1SeChFTirkaFk889Y26D-us1TtKrrRag8w1O2L3reu-_PKH3j7jaqpZLq9U4U=s180-rw"
-    },
-    {
       "app_name": "Echo Magic Mirror Effect",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.echomagicmirroreffect",
       "app_icon": "https://lh3.googleusercontent.com/G3rCUwiA-e9ykDdhw7IE0XKAIwLnWiWIH2e6JkUHDB9QbZNZvVGpf1eJhbGwMWUbfKi3=s180-rw"
+    },
+    {
+      "app_name": "Independence Day Photo Frames 2019",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.independenceday",
+      "app_icon": "https://lh3.googleusercontent.com/IkJ_Axv_zkb-aVBL6zvXob2vs2L_LXZd7pDbDs69e8I69Ofzd1kx_kw8tIszR5hoxw=s180"
+    },
+    {
+      "app_name": "Raksha Bandhan Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.rakshabandhan",
+      "app_icon": "https://lh3.googleusercontent.com/NsbGl4ixU8TtYH0eF1LfXBmp_iIMnStkUvujAHZEcN9pg612pEeImvwbUW7OSkso3x4=s180-rw"
     },
     {
       "app_name": "Voice Recorder",
