@@ -1,20 +1,26 @@
 {
   "sample": [
-   
     {
       "app_name": "Flash On Call",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashoncall",
       "app_icon": "https://lh3.googleusercontent.com/OSFhSrJiqN8EXESD3WAKRyDLmHX_eEs8YRp4qggrbvLfwR7nt76ftcLc2YxtMC0vfqA=s180-rw"
     },
     {
+      "app_name": "Telugu Calendar 2020",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.telugucalender",
+      "app_icon": "https://lh3.googleusercontent.com/637qK1AGgAVN9-c3RsOlyOVTmn_9k5r1-2awOqyCCHluNNSR4P-dkIKKMOpITDWDAMDA=s180"
+    },
+    {
       "app_name": "Pongal Photo Frames 2020",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.pongalphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/fFXC5vK5uOP0ijr9RQLZc31NNUGzgpOAIuveMjQVhX-m7ij_Q_dxQpgvHAFi4C3O2qxY=s180-rw"
-    },{
+    },
+    {
       "app_name": "Coffee Mug Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.coffeemugphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/oqDJNw18CEmZOg9TckdVgEUai3cyWGVIG2tPwjX5im9Ts74RhbCjj-RGxGDBTFW8i7s=s180"
-    },{
+    },
+    {
       "app_name": "Mobile Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.mobilephotoframes",
       "app_icon": "https://lh3.googleusercontent.com/4Rut578HNpSv6dwLVI2eukUZ6dWdcKg0cREEVvqk9F46DOqkCT9rNFOQLIKARlqJlZI=s180"
@@ -28,29 +34,6 @@
       "app_name": "Transparent Screen",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.transparentscreen",
       "app_icon": "https://lh3.googleusercontent.com/L3jyTx5nDDQjU0fOar33esro2EgF8VCEs_HZgaB6NzqX2DmfwRBcIR8GbAZAbtUYAD0=w300-rw"
-    },{
-      "app_name": "Jesus Photo Frames & Wallpapers",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframeeditor",
-      "app_icon": "https://lh3.googleusercontent.com/UZacJov48NlCv92fG6Wpg_S433vbhsjGMnKGuKmHnd6zftChOH8MwrnI6K6SttxS0w=s180"
-    },
-    {
-      "app_name": "New Year Photo Frames 2020",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.newyearphotoframes",
-      "app_icon": "https://lh3.googleusercontent.com/YToWhiKOWWQwkbdPH0h2pM3WjbgzgAOOEjEcLpnDPiSUJvIMQ-609GlejetJhC1IQrY=s180"
-    },{
-      "app_name": "Telugu Calendar 2020",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.telugucalender",
-      "app_icon": "https://lh3.googleusercontent.com/637qK1AGgAVN9-c3RsOlyOVTmn_9k5r1-2awOqyCCHluNNSR4P-dkIKKMOpITDWDAMDA=s180"
-    },
-    {
-      "app_name": "Christmas Photo Frames",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframes",
-      "app_icon": "https://lh3.googleusercontent.com/P5dwMsZR2SDNFN_4o6umiayDb4kEiZFtCWeN2EOxV7zpuzdRLfjF6GyDuXLdBYlCjA=s180"
-    },
-    {
-      "app_name": "Ayyappa Swamy Live Wallpaper",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ayyappaswamylivewallpaper",
-      "app_icon": "https://lh3.googleusercontent.com/KD7bCGUgMQnOIPuEGBGpzHmTZv9345toaFzvQgIuGHSFju49KI3gXHNvZJkE2dctZZE=s180-rw"
     },
     {
       "app_name": "Quotes and Status",
@@ -61,6 +44,26 @@
       "app_name": "Mehndi Designs",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.mehndidesigns",
       "app_icon": "https://lh3.googleusercontent.com/cKd_HuDVHwBnnF2U6Smo-8RTgiw3ot4rlE5FxRH284WbdYiXFCNDdMz7q06hE0svGQ=s180"
+    },
+    {
+      "app_name": "Jesus Photo Frames & Wallpapers",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframeeditor",
+      "app_icon": "https://lh3.googleusercontent.com/UZacJov48NlCv92fG6Wpg_S433vbhsjGMnKGuKmHnd6zftChOH8MwrnI6K6SttxS0w=s180"
+    },
+    {
+      "app_name": "New Year Photo Frames 2020",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.newyearphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/YToWhiKOWWQwkbdPH0h2pM3WjbgzgAOOEjEcLpnDPiSUJvIMQ-609GlejetJhC1IQrY=s180"
+    },
+    {
+      "app_name": "Christmas Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/P5dwMsZR2SDNFN_4o6umiayDb4kEiZFtCWeN2EOxV7zpuzdRLfjF6GyDuXLdBYlCjA=s180"
+    },
+    {
+      "app_name": "Ayyappa Swamy Live Wallpaper",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ayyappaswamylivewallpaper",
+      "app_icon": "https://lh3.googleusercontent.com/KD7bCGUgMQnOIPuEGBGpzHmTZv9345toaFzvQgIuGHSFju49KI3gXHNvZJkE2dctZZE=s180-rw"
     },
     {
       "app_name": "Status Downloader",
