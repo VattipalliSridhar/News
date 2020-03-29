@@ -6,16 +6,6 @@
       "app_icon": "https://lh3.googleusercontent.com/OSFhSrJiqN8EXESD3WAKRyDLmHX_eEs8YRp4qggrbvLfwR7nt76ftcLc2YxtMC0vfqA=s180-rw"
     },
     {
-      "app_name": "Telugu Calendar 2020",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.telugucalender",
-      "app_icon": "https://lh3.googleusercontent.com/637qK1AGgAVN9-c3RsOlyOVTmn_9k5r1-2awOqyCCHluNNSR4P-dkIKKMOpITDWDAMDA=s180"
-    },
-    {
-      "app_name": "Ugadi Photo Frames 2020",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ugadiphotoframes",
-      "app_icon": "https://lh3.googleusercontent.com/SHuGOq-sclORDBKFfPDFSdkYScsX3CCMuCUfFo6gA1UO6JMOSK7mbDny2CJKSqJt-QA=s180"
-    },
-    {
       "app_name": "Mehndi Designs",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.mehndidesigns",
       "app_icon": "https://lh3.googleusercontent.com/cKd_HuDVHwBnnF2U6Smo-8RTgiw3ot4rlE5FxRH284WbdYiXFCNDdMz7q06hE0svGQ=s180"
@@ -36,11 +26,6 @@
       "app_icon": "https://lh3.googleusercontent.com/L3jyTx5nDDQjU0fOar33esro2EgF8VCEs_HZgaB6NzqX2DmfwRBcIR8GbAZAbtUYAD0=w300-rw"
     },
     {
-      "app_name": "Holi Photo Frames 2020",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.holiphotoframes",
-      "app_icon": "https://lh3.googleusercontent.com/A3cVcIKMfE-GEDTQ2YszTwiSuZ4OOOjfjHXxyueHWJAxXDS2zQNJ3Jes_cgU7M9am9o=s180"
-    },
-    {
       "app_name": "Quotes and Status",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.quotesandstatus",
       "app_icon": "https://lh3.googleusercontent.com/CtAvyo53EIFLGmXyPKyVuKbLYGKBZcxTwY2-5-8u3Wfkk321boPDmfFIYxML8-O-9w=s180"
@@ -54,6 +39,21 @@
       "app_name": "Flower Photo Frames & Wallpapers",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flowerphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/Qd6yBsZqiNilSJA9jN8OvBEAViZT-nby_QBuaN-P7o6rP75dtcj8wpb6sZt0sdoXDNQ=s180"
+    },
+    {
+      "app_name": "Telugu Calendar 2020",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.telugucalender",
+      "app_icon": "https://lh3.googleusercontent.com/637qK1AGgAVN9-c3RsOlyOVTmn_9k5r1-2awOqyCCHluNNSR4P-dkIKKMOpITDWDAMDA=s180"
+    },
+    {
+      "app_name": "Ugadi Photo Frames 2020",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ugadiphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/SHuGOq-sclORDBKFfPDFSdkYScsX3CCMuCUfFo6gA1UO6JMOSK7mbDny2CJKSqJt-QA=s180"
+    },
+    {
+      "app_name": "Holi Photo Frames 2020",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.holiphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/A3cVcIKMfE-GEDTQ2YszTwiSuZ4OOOjfjHXxyueHWJAxXDS2zQNJ3Jes_cgU7M9am9o=s180"
     },
     {
       "app_name": "Lord Shiva Photo Frames : Maha Shivaratri",
