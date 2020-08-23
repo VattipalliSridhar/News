@@ -7,9 +7,19 @@
       "app_icon": "https://lh3.googleusercontent.com/OSFhSrJiqN8EXESD3WAKRyDLmHX_eEs8YRp4qggrbvLfwR7nt76ftcLc2YxtMC0vfqA=s180-rw"
     },
     {
-      "app_name": "Independence Day Photo Frames 2020",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.independenceday",
-      "app_icon": "https://lh3.googleusercontent.com/IkJ_Axv_zkb-aVBL6zvXob2vs2L_LXZd7pDbDs69e8I69Ofzd1kx_kw8tIszR5hoxw=s180"
+      "app_name": "Eid Mubarak Photo Frames & Wallpapers",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.eidmubarakphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/nCatlx72Tw3oCMGVToh5S4i89mn8pKVOxvVuYHcxb9tvshpGWZfPm2LHrzRogVDxA9vB=s180"
+    },
+    {
+      "app_name": "Dussehra Navaratri Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.dussehranavaratriphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/NUNtUs9bDTxSc8PeI82LV357pUu6cfznzD8H2y9DaPgnsIwYNcKjKJM3XUSKP0BbzpE-=s180-rw"
+    },
+    {
+      "app_name": "Lord Ganesh Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.lordganesh",
+      "app_icon": "https://lh3.googleusercontent.com/ABE9jB99oHd2i8PBO00Jz9DRE7-A1JJTbqWqXS29-jgC6C9A3XzzAnNzb9f-3PKfYOw=s180-rw"
     },
     {
       "app_name": "Lord Ganesh Live Wallpaper",
@@ -22,14 +32,24 @@
       "app_icon": "https://lh3.googleusercontent.com/DCK4kK7ha77ckPXqHJV7ndXQzleAGVJRY6fDZDHQmuFBaydNm5b8my9jcw1-j0s55U0=s180"
     },
     {
+      "app_name": "Jesus Photo Frames & Wallpapers",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframeeditor",
+      "app_icon": "https://lh3.googleusercontent.com/UZacJov48NlCv92fG6Wpg_S433vbhsjGMnKGuKmHnd6zftChOH8MwrnI6K6SttxS0w=s180"
+    },
+    {
+      "app_name": "Ayyappa Swamy Live Wallpaper",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ayyappaswamylivewallpaper",
+      "app_icon": "https://lh3.googleusercontent.com/KD7bCGUgMQnOIPuEGBGpzHmTZv9345toaFzvQgIuGHSFju49KI3gXHNvZJkE2dctZZE=s180-rw"
+    },
+    {
+      "app_name": "Christmas Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/P5dwMsZR2SDNFN_4o6umiayDb4kEiZFtCWeN2EOxV7zpuzdRLfjF6GyDuXLdBYlCjA=s180"
+    },
+    {
       "app_name": "Raksha Bandhan Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.rakshabandhan",
       "app_icon": "https://lh3.googleusercontent.com/NsbGl4ixU8TtYH0eF1LfXBmp_iIMnStkUvujAHZEcN9pg612pEeImvwbUW7OSkso3x4=s180-rw"
-    },
-    {
-      "app_name": "Lord Ganesh Photo Frames",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.lordganesh",
-      "app_icon": "https://lh3.googleusercontent.com/ABE9jB99oHd2i8PBO00Jz9DRE7-A1JJTbqWqXS29-jgC6C9A3XzzAnNzb9f-3PKfYOw=s180-rw"
     },
     {
       "app_name": "Village Photo Frames",
@@ -57,9 +77,9 @@
       "app_icon": "https://lh3.googleusercontent.com/P49v-If_AUyV_cxe-hhuifw3vNcDN4mo0rcpf8-pBJZ7Zr0NwsUZDOtmV5JTlOj3pS8G=s180"
     },
     {
-      "app_name": "Eid Mubarak Photo Frames & Wallpapers",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.eidmubarakphotoframes",
-      "app_icon": "https://lh3.googleusercontent.com/nCatlx72Tw3oCMGVToh5S4i89mn8pKVOxvVuYHcxb9tvshpGWZfPm2LHrzRogVDxA9vB=s180"
+      "app_name": "Independence Day Photo Frames 2020",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.independenceday",
+      "app_icon": "https://lh3.googleusercontent.com/IkJ_Axv_zkb-aVBL6zvXob2vs2L_LXZd7pDbDs69e8I69Ofzd1kx_kw8tIszR5hoxw=s180"
     },
     {
       "app_name": "Monsoon Rain Photo Frames",
@@ -162,24 +182,9 @@
       "app_icon": "https://lh3.googleusercontent.com/oqDJNw18CEmZOg9TckdVgEUai3cyWGVIG2tPwjX5im9Ts74RhbCjj-RGxGDBTFW8i7s=s180"
     },
     {
-      "app_name": "Jesus Photo Frames & Wallpapers",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframeeditor",
-      "app_icon": "https://lh3.googleusercontent.com/UZacJov48NlCv92fG6Wpg_S433vbhsjGMnKGuKmHnd6zftChOH8MwrnI6K6SttxS0w=s180"
-    },
-    {
       "app_name": "New Year Photo Frames 2020",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.newyearphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/YToWhiKOWWQwkbdPH0h2pM3WjbgzgAOOEjEcLpnDPiSUJvIMQ-609GlejetJhC1IQrY=s180"
-    },
-    {
-      "app_name": "Christmas Photo Frames",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframes",
-      "app_icon": "https://lh3.googleusercontent.com/P5dwMsZR2SDNFN_4o6umiayDb4kEiZFtCWeN2EOxV7zpuzdRLfjF6GyDuXLdBYlCjA=s180"
-    },
-    {
-      "app_name": "Ayyappa Swamy Live Wallpaper",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ayyappaswamylivewallpaper",
-      "app_icon": "https://lh3.googleusercontent.com/KD7bCGUgMQnOIPuEGBGpzHmTZv9345toaFzvQgIuGHSFju49KI3gXHNvZJkE2dctZZE=s180-rw"
     },
     {
       "app_name": "Ram Optimizer",
@@ -195,11 +200,6 @@
       "app_name": "Empty Folder Cleaner",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.emptyfoldercleaner",
       "app_icon": "https://lh3.googleusercontent.com/IB2FoVfeo7nNrDsaLlx50VJt6oQO6tvk-TSeJOVSICNGoXVDTrWKM8pTzH4WKZ85ErA=s180-rw"
-    },
-    {
-      "app_name": "Dussehra Navaratri Photo Frames",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.dussehranavaratriphotoframes",
-      "app_icon": "https://lh3.googleusercontent.com/NUNtUs9bDTxSc8PeI82LV357pUu6cfznzD8H2y9DaPgnsIwYNcKjKJM3XUSKP0BbzpE-=s180-rw"
     },
     {
       "app_name": "Peacock Photo Frames",
