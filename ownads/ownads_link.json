@@ -7,21 +7,6 @@
       "app_icon": "https://lh3.googleusercontent.com/OSFhSrJiqN8EXESD3WAKRyDLmHX_eEs8YRp4qggrbvLfwR7nt76ftcLc2YxtMC0vfqA=s180-rw"
     },
     {
-      "app_name": "Dussehra Navaratri Photo Frames",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.dussehranavaratriphotoframes",
-      "app_icon": "https://lh3.googleusercontent.com/IcWeYbtFIjzht4qJHJEKmDUI2zwdUia13FuGI-sfdk3gx1IAZ6TtGNhkXSygw8BrzN_o"
-    },
-    {
-      "app_name": "Flash Light",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashlight",
-      "app_icon": "https://lh3.googleusercontent.com/jWtislOd_1vGx-t3aejOjusOdGsmKUPE52XMnhA1DNDuVwd-JPvI1Gi2oC76IQptuJg=s180"
-    },
-    {
-      "app_name": "Diwali Photo Frames & Editor",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.diwaliphotoframes",
-      "app_icon": "https://lh3.googleusercontent.com/Ujsq6fIdMV4iCH7XP1yjvGYgvQLCGNkwLC9JnPd9MEa6jeIyon0qb_TBkaF7Yrp9U7s=s180"
-    },
-    {
       "app_name": "Jesus Photo Frames & Wallpapers",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframeeditor",
       "app_icon": "https://lh3.googleusercontent.com/UZacJov48NlCv92fG6Wpg_S433vbhsjGMnKGuKmHnd6zftChOH8MwrnI6K6SttxS0w=s180"
@@ -35,6 +20,31 @@
       "app_name": "Christmas Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.christmasphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/P5dwMsZR2SDNFN_4o6umiayDb4kEiZFtCWeN2EOxV7zpuzdRLfjF6GyDuXLdBYlCjA=s180"
+    },
+    {
+      "app_name": "Flash Light",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashlight",
+      "app_icon": "https://lh3.googleusercontent.com/jWtislOd_1vGx-t3aejOjusOdGsmKUPE52XMnhA1DNDuVwd-JPvI1Gi2oC76IQptuJg=s180"
+    },
+    {
+      "app_name": "Status Downloader",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.statusdownloader",
+      "app_icon": "https://lh3.googleusercontent.com/Ed64yTtkH9invRj6vuRG6lAixdcknvkBPWr0LPSrHrveyMZ45xgpGfnfVy-2Lac4Uh8=s180"
+    },
+    {
+      "app_name": "Telugu Calendar 2020",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.telugucalender",
+      "app_icon": "https://lh3.googleusercontent.com/637qK1AGgAVN9-c3RsOlyOVTmn_9k5r1-2awOqyCCHluNNSR4P-dkIKKMOpITDWDAMDA=s180"
+    },
+    {
+      "app_name": "Dussehra Navaratri Photo Frames",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.dussehranavaratriphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/IcWeYbtFIjzht4qJHJEKmDUI2zwdUia13FuGI-sfdk3gx1IAZ6TtGNhkXSygw8BrzN_o"
+    },
+    {
+      "app_name": "Diwali Photo Frames & Editor",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.diwaliphotoframes",
+      "app_icon": "https://lh3.googleusercontent.com/Ujsq6fIdMV4iCH7XP1yjvGYgvQLCGNkwLC9JnPd9MEa6jeIyon0qb_TBkaF7Yrp9U7s=s180"
     },
     {
       "app_name": "Eid Mubarak Photo Frames & Wallpapers",
@@ -97,11 +107,6 @@
       "app_icon": "https://lh3.googleusercontent.com/cKd_HuDVHwBnnF2U6Smo-8RTgiw3ot4rlE5FxRH284WbdYiXFCNDdMz7q06hE0svGQ=s180"
     },
     {
-      "app_name": "Status Downloader",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.statusdownloader",
-      "app_icon": "https://lh3.googleusercontent.com/Ed64yTtkH9invRj6vuRG6lAixdcknvkBPWr0LPSrHrveyMZ45xgpGfnfVy-2Lac4Uh8=s180"
-    },
-    {
       "app_name": "3D Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.threedphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/MD9M9Kqhnlu5cPgIITH17gFJVAZ8PDhRPGSeeEAereJO062NvKLSL3hRyGDbswywija0=s180"
@@ -145,11 +150,6 @@
       "app_name": "Flower Photo Frames & Wallpapers",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flowerphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/Qd6yBsZqiNilSJA9jN8OvBEAViZT-nby_QBuaN-P7o6rP75dtcj8wpb6sZt0sdoXDNQ=s180"
-    },
-    {
-      "app_name": "Telugu Calendar 2020",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.telugucalender",
-      "app_icon": "https://lh3.googleusercontent.com/637qK1AGgAVN9-c3RsOlyOVTmn_9k5r1-2awOqyCCHluNNSR4P-dkIKKMOpITDWDAMDA=s180"
     },
     {
       "app_name": "Ugadi Photo Frames 2020",
