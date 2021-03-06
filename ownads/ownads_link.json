@@ -11,6 +11,11 @@
       "app_icon": "https://lh3.googleusercontent.com/HDK8Kc4OMSD5iqzdAd9urhhIcZZlSXZcmPUhTjhs21dBIAKJJ8P0SdHac8sDBMYwe-3M=s180-rw"
     },
     {
+      "app_name": "Police Photo Suit",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.policephotosuit",
+      "app_icon": "https://play-lh.googleusercontent.com/UFBqAPExPEqeQTwS1qeYeZEmOXzR80BOcO0Nbw84VOuRfwoJA4DktAtQbKgPA-T8I2E=s180-rw"
+    },
+    {
       "app_name": "Status Downloader",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.statusdownloader",
       "app_icon": "https://lh3.googleusercontent.com/Ed64yTtkH9invRj6vuRG6lAixdcknvkBPWr0LPSrHrveyMZ45xgpGfnfVy-2Lac4Uh8=s180"
@@ -18,22 +23,7 @@
     {
       "app_name": "Telugu Calendar 2021",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.telugucalender",
-      "app_icon": "https://lh3.googleusercontent.com/637qK1AGgAVN9-c3RsOlyOVTmn_9k5r1-2awOqyCCHluNNSR4P-dkIKKMOpITDWDAMDA=s180"
-    },
-    {
-      "app_name": "Mehndi Designs",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.mehndidesigns",
-      "app_icon": "https://lh3.googleusercontent.com/cKd_HuDVHwBnnF2U6Smo-8RTgiw3ot4rlE5FxRH284WbdYiXFCNDdMz7q06hE0svGQ=s180"
-    },
-    {
-      "app_name": "Lord Ganesh Live Wallpaper",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.lordganeshlivewallpaper",
-      "app_icon": "https://lh3.googleusercontent.com/jjH6b7JSb5_mMsguGBz_flvQISqG1sUiK1R--ppOnEC8UFzR7-ppPSfSUOKoFU261IY=s180"
-    },
-    {
-      "app_name": "All Gods Wallpaper",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.allgodswallpaper",
-      "app_icon": "https://lh3.googleusercontent.com/DCK4kK7ha77ckPXqHJV7ndXQzleAGVJRY6fDZDHQmuFBaydNm5b8my9jcw1-j0s55U0=s180"
+      "app_icon": "https://play-lh.googleusercontent.com/FkP_MFBVyIRP7jvoCqDMbNenErafavgHluSSM_yRyjWJC3nRxrxGONEQT1vXoKe7Ucc=s180-rw"
     },
     {
       "app_name": "Ugadi Photo Frames 2021",
@@ -49,6 +39,21 @@
       "app_name": "Pongal Photo Frames 2021",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.pongalphotoframes",
       "app_icon": "https://lh3.googleusercontent.com/fFXC5vK5uOP0ijr9RQLZc31NNUGzgpOAIuveMjQVhX-m7ij_Q_dxQpgvHAFi4C3O2qxY=s180-rw"
+    },
+    {
+      "app_name": "Mehndi Designs",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.mehndidesigns",
+      "app_icon": "https://lh3.googleusercontent.com/cKd_HuDVHwBnnF2U6Smo-8RTgiw3ot4rlE5FxRH284WbdYiXFCNDdMz7q06hE0svGQ=s180"
+    },
+    {
+      "app_name": "Lord Ganesh Live Wallpaper",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.lordganeshlivewallpaper",
+      "app_icon": "https://lh3.googleusercontent.com/jjH6b7JSb5_mMsguGBz_flvQISqG1sUiK1R--ppOnEC8UFzR7-ppPSfSUOKoFU261IY=s180"
+    },
+    {
+      "app_name": "All Gods Wallpaper",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.allgodswallpaper",
+      "app_icon": "https://lh3.googleusercontent.com/DCK4kK7ha77ckPXqHJV7ndXQzleAGVJRY6fDZDHQmuFBaydNm5b8my9jcw1-j0s55U0=s180"
     },
     {
       "app_name": "Republic Day Photo Frames 2021",
