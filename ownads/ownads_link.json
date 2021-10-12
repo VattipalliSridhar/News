@@ -2,8 +2,13 @@
   "sample": [
     {
       "app_name": "Flash On Call",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashoncall",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashalerts",
       "app_icon": "https://lh3.googleusercontent.com/OSFhSrJiqN8EXESD3WAKRyDLmHX_eEs8YRp4qggrbvLfwR7nt76ftcLc2YxtMC0vfqA=s180-rw"
+    },
+    {
+      "app_name": "Ram Optimizer",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ramoptimizer",
+      "app_icon": "https://lh3.googleusercontent.com/2dHVvNH58cTfAY54GHfeRAcThkihXQsDMJQTMYfggFQPg6otik0Du4LrjqfUnH0PyG96=s180-rw"
     },
     {
       "app_name": "Dussehra Navaratri Photo Frames",
@@ -19,11 +24,6 @@
       "app_name": "Village Photo Frames",
       "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.villagephotoframes",
       "app_icon": "https://lh3.googleusercontent.com/5W3sNOS8nk6EpugAWiEP8CDRgSuk2kAhkd7H0b-6b0xp666IwLU0vBzZZ8NZOTb9Kj8o=s180-rw"
-    },
-    {
-      "app_name": "Ram Optimizer",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.ramoptimizer",
-      "app_icon": "https://lh3.googleusercontent.com/2dHVvNH58cTfAY54GHfeRAcThkihXQsDMJQTMYfggFQPg6otik0Du4LrjqfUnH0PyG96=s180-rw"
     },
     {
       "app_name": "Status Downloader",
