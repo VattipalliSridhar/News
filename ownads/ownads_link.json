@@ -1,9 +1,9 @@
 {
   "sample": [
     {
-      "app_name": "Flash On Call and SMS",
-      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashalerts",
-      "app_icon": "https://play-lh.googleusercontent.com/1mVQhUvczvnwbqlvVr1DcdTHGx7K2hrKaZuzkrzfQFBKYQxKHJEllbA0HnTgL1rTAug=s180"
+      "app_name": "Flash On Call",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashoncall",
+      "app_icon": "https://play-lh.googleusercontent.com/OSFhSrJiqN8EXESD3WAKRyDLmHX_eEs8YRp4qggrbvLfwR7nt76ftcLc2YxtMC0vfqA=s180"
     },
     {
       "app_name": "Ram Optimizer",
@@ -44,6 +44,10 @@
       "app_name": "All Gods Wallpapers - Hindu Gods HD Wallpapers",
       "app_url": "https://play.google.com/store/apps/details?id=com.appsbytes.allgodwallpapers",
       "app_icon": "https://play-lh.googleusercontent.com/Ws6OHFpLCl54MCXQYgLyLNKozfKJK7XYPHHrIByqirNV1hEuViJFd-XOpV2ExmLmSIQ=s180"
+    },{
+      "app_name": "Flash On Call and SMS",
+      "app_url": "https://play.google.com/store/apps/details?id=com.katamapps.flashalerts",
+      "app_icon": "https://play-lh.googleusercontent.com/1mVQhUvczvnwbqlvVr1DcdTHGx7K2hrKaZuzkrzfQFBKYQxKHJEllbA0HnTgL1rTAug=s180"
     },
     {
       "app_name": "Lord Ganesh Photo Frames",
